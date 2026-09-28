@@ -31,6 +31,3 @@ With recurring monthly deposits $D$, the iteration step is updated as:
 
 $$S_{t + 1} = (S_t \cdot g_t) + D$$
 
-
-```bash
-pip install numpy matplotlib
